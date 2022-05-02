@@ -345,3 +345,13 @@ gitlab.plainedit.com/:user/:script
  > [here You can maintain the content for your website in Markdown files](https://github.com/plainedit/roadmap/edit/main/TODO.md)
 
 ---
+## Offer
+
+3 different groups of users:
+
+
+---
+
+> [here You can maintain the content for your website in Markdown files](https://github.com/plainedit/offer/edit/main/OFFER.md)
+
+---

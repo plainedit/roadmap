@@ -15,7 +15,7 @@
 
 ---
 
- > [here You can maintain the content for your website in Markdown files](https://github.com/plaineditroadmapedit/main/MENU.md)
+ > [here You can maintain the content for your website in Markdown files](https://github.com/plainedit/roadmapedit/main/MENU.md)
 
 ---
 ## About  PlainEdit 
@@ -340,6 +340,6 @@ gitlab.plainedit.com/:user/:script
 
 ---
 
- > [here You can maintain the content for your website in Markdown files](https://github.com/plaineditroadmapedit/main/TODO.md)
+ > [here You can maintain the content for your website in Markdown files](https://github.com/plainedit/roadmapedit/main/TODO.md)
 
 ---

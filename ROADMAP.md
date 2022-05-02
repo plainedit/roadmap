@@ -227,5 +227,7 @@ gitlab.plainedit.com/:user/:script
 
 
 ---
-+ [here You can maintain the content for your website in Markdown files](https://github.com/plainedit/bash/edit/main/TODO.md)
+
+[here You can maintain the content for your website in Markdown files](https://github.com/plainedit/bash/edit/main/TODO.md)
+
 ---

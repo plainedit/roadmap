@@ -15,7 +15,7 @@
 
 ---
 
-[here You can maintain the content for your website in Markdown files](https://github.com/plainedit/bash/edit/main/MENU.md)
+ > [here You can maintain the content for your website in Markdown files](https://github.com/plainedit/bash/edit/main/MENU.md)
 
 ---
 ## About  PlainEdit 
@@ -108,7 +108,7 @@ It is so simple that it doesn't have any user management (KISS philosophy).
 
 ---
 
-[here You can maintain the content for your website in Markdown files](https://github.com/plainedit/bash/edit/main/MENU.md)
+> [here You can maintain the content for your website in Markdown files](https://github.com/plainedit/bash/edit/main/MENU.md)
 
 ---
 ## ROADMAP
@@ -340,6 +340,6 @@ gitlab.plainedit.com/:user/:script
 
 ---
 
->> [here You can maintain the content for your website in Markdown files](https://github.com/plainedit/bash/edit/main/TODO.md)
+ > [here You can maintain the content for your website in Markdown files](https://github.com/plainedit/bash/edit/main/TODO.md)
 
 ---

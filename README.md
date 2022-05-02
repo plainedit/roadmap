@@ -18,6 +18,7 @@
  > [here You can maintain the content for your website in Markdown files](https://github.com/plainedit/roadmap/edit/main/MENU.md)
 
 ---
+
 ## About  PlainEdit 
 
 PLAINEDIT takes markdown, evaluates code blocks with interpreters and prints the output of those processes to a different codeblock.
@@ -111,6 +112,7 @@ It is so simple that it doesn't have any user management (KISS philosophy).
 > [here You can maintain the content for your website in Markdown files](https://github.com/plainedit/bash/edit/main/ABOUT.md)
 
 ---
+
 ## ROADMAP
 
 ### INTERNAL COMMANDS

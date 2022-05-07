@@ -2,7 +2,7 @@
 
 ![logo](http://logo.plainedit.com/2/cover.png)
 
-# [Roadmap - roadmap.plainedit.com](http://roadmap.plainedit.com/)
+# [Roadmap - roadmap.plainedit.com](http://roadmap.plainedit.com/) [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/plainedit/roadmap/edit/main/DOCS/MENU.md)
 
 + [Offer - offer.plainedit.com](http://offer.plainedit.com/)
 + [Usecases - examples.plainedit.com](http://examples.plainedit.com/)
@@ -13,13 +13,9 @@
 + [Offer - offer.plainedit.com](http://offer.plainedit.com/)
 + [logo.plainedit.com](https://logo.plainedit.com/)
 
----
 
- > [here You can maintain the content for your website in Markdown files](https://github.com/plainedit/roadmap/edit/main/MENU.md)
 
----
-
-## About  PlainEdit 
+## About [PlainEdit](https://www.plainedit.com) [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/plainedit/bash/edit/main/DOCS/ABOUT.md) 
 
 PLAINEDIT takes markdown, evaluates code blocks with interpreters and prints the output of those processes to a different codeblock.
 Plain editor written in Bash, it's a single bash scripts with modular architecture opened for an extension scripts.
@@ -40,12 +36,18 @@ Plain editor written in Bash, it's a single bash scripts with modular architectu
 
 It is so simple that it doesn't have any user management (KISS philosophy).
 
+
 ### Features
 
 + File-based using a Git repository
 + Content optionally generated statically
 + Markdown syntax
 
+
+### Data Templates
+
++ Content as flow step by step 
++ Table CSV with imported data
 
 ### Dependencies
 
@@ -92,6 +94,10 @@ It is so simple that it doesn't have any user management (KISS philosophy).
 
 ## Use Cases:
 
++ starting all 
++ starting step by step, each 2sec.
++ starting manual, by click/start script
+
 ### Community
 
 + Schools
@@ -107,13 +113,8 @@ It is so simple that it doesn't have any user management (KISS philosophy).
 + Portfolios with imported data from list of resources
 
 
----
+## ROADMAP [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/plainedit/roadmap/edit/main/DOCS/ROADMAP.md)
 
-> [here You can maintain the content for your website in Markdown files](https://github.com/plainedit/bash/edit/main/ABOUT.md)
-
----
-
-## ROADMAP
 
 ### INTERNAL COMMANDS
 

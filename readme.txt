@@ -1,4 +1,4 @@
-./MENU.md
-../bash/ABOUT.md
-./ROADMAP.md
+./DOCS/MENU.md
+../bash/DOCS/ABOUT.md
+./DOCS/ROADMAP.md
 ../offer/OFFER.md

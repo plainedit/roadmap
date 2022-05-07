@@ -340,12 +340,6 @@ github.plainedit.com/:user/:
 gitlab.plainedit.com/:user/:script
 
 
-
----
-
- > [here You can maintain the content for your website in Markdown files](https://github.com/plainedit/roadmap/edit/main/ROADMAP.md)
-
----
 ## Offer
 
 3 different groups of users:
